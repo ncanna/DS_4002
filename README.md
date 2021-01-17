@@ -1,7 +1,7 @@
 # Data Science Capstone Class
 In this class, students were challenged to present data-driven problems and solutions. The course was driven by the production and presentation of data science products and feedback. 
 
-# Week 1
+## Week 1
 **Dataset**: 
 The dataset being utilized to answer the general question and test the hypotheses listed above is from a 2014 survey conducted by the Open Sourcing Mental Illness organization. 19  This organization aims to change the way mental health is discussed in the tech community, addressing stigmatization and providing necessary resources to those suffering from mental health disorders. In the survey, which was conducted in 2014, several responses are gathered in addition to the demographics of participants in a result to measure attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
 
